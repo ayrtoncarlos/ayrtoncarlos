@@ -2,11 +2,6 @@
 
 <p>Welcome to my page! </br> I'm Ayrton, Software Engineer from <img src="https://image.flaticon.com/icons/svg/3909/3909370.svg" width="13"/> <b>Campina Grande - PB, Brazil</b>.</p>
 
-<h3>What is that sound I'm hearing?</h3>
-- 🎵 🤘 God Dethroned - A Call to Arms + Annihilation Crusade 🤘🎵
-<audio src="https://docs.google.com/uc?export=download&id=1M_TEFMAFW3yv2FIee4GnK8FZfCr7556E" autoplay>
-</audio>
-
 <h3>Things I code with</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
