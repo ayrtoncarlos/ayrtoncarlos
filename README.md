@@ -4,13 +4,8 @@
 
 <h3>What is that sound I'm hearing?</h3>
 - 🎵 🤘 God Dethroned - A Call to Arms + Annihilation Crusade 🤘🎵
-<audio id="myaudio" src="https://docs.google.com/uc?export=download&id=1M_TEFMAFW3yv2FIee4GnK8FZfCr7556E" autoplay>
+<audio src="https://docs.google.com/uc?export=download&id=1M_TEFMAFW3yv2FIee4GnK8FZfCr7556E" autoplay>
 </audio>
-
-<script>
-  var audio = document.getElementById("myaudio");
-  audio.volume = 0.2;
-</script>
 
 <h3>Things I code with</h3>
 <p>
