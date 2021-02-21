@@ -46,14 +46,14 @@
 - 📚 On the way to learn development using [Django](https://www.djangoproject.com/)  
 - ❤️ My hobbies are solving computer problems, 🎈 participating in programming competitions 🎈, 🎮 playing video games, 💪 weight training, 🤘😜🤘 listening to heavy metal music 🎶, 📚 reading books on mythologies, mathematics, algorithms and technologies, and 🗣💬 learning new languages.  
 
+![Ayrton's github stats](https://github-readme-stats.vercel.app/api?username=ayrtoncarlos&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtoncarlos&langs_count=10&count_private=true&theme=tokyonight)
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/ayrtoncarlos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ayrton-andrade/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto: ayrton.c.a.andrade@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
-
-![Ayrton's github stats](https://github-readme-stats.vercel.app/api?username=ayrtoncarlos&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtoncarlos&langs_count=10&count_private=true&theme=tokyonight)
 
 <p align="center"> 
   Visitor count :trollface:<br>
