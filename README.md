@@ -25,23 +25,37 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F6F6F6?style=flat-square&logo=mysql&logoColor=507E9C" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-F6F6F6?style=flat-square&logo=postgresql&logoColor=31648C" />
 <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-F6F6F6?style=flat-square&logo=microsoft-sql-server&logoColor=E01B23" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-42BE85?style=flat-square&logo=vue.js&logoColor=34495E" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-45BFF3?style=flat-square&logo=flutter&logoColor=34495E" />
+<img alt="Dart" src="https://img.shields.io/badge/-Dart-45BFF3?style=flat-square&logo=dart&logoColor=34495E" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-FFDB4D?style=flat-square&logo=python&logoColor=white" />
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-DDDBDB?style=flat-square&logo=jupyter&logoColor=orange" />
 <img alt="Django" src="https://img.shields.io/badge/-Django-51BE95?style=flat-square&logo=django&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-EA2845?style=flat-square&logo=flask&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=009485" />
 <img alt="Golang" src="https://img.shields.io/badge/-Golang-7FD5EA?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-- 👨‍🎓  I'm about to finish my bachelor's degree at [UNIFACISA](https://www.unifacisa.edu.br/home)  
-- 🔭 I’m currently working on ???  
-- 🌱 I’m currently learning on Machine Learning and Deep Learning  
-- 👯 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)  
-- 👯 I’m currently collaborate on [Keep Coding - Unifacisa](https://github.com/eduardolfalcao/keep-coding)  
+- 👨‍🎓 I'm about to finish my bachelor's degree at ‍<img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /> [UNIFACISA](https://www.unifacisa.edu.br/home)  
+- 🏢 I’m currently working on ❔❔❔  
+- 💻 I’m currently learning on 📈📉 Machine Learning 📊 and 🤖💬 Deep Learning  
+- 💡🧠 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)  
+- 🏆🎈 I’m currently collaborate on [Keep Coding - Unifacisa](https://github.com/eduardolfalcao/keep-coding)  
 - 📚 On the way to learn development using [Angular](https://angular.io/)  
 - 📚 On the way to learn development using [Django](https://www.djangoproject.com/)  
-- ❤️ My hobbies are solving computer problems, participating in programming competitions, playing video games, weight training, 🤘 listening to heavy metal music 🤘, reading books on mythologies, mathematics, algorithms and technologies, and learning new languages.  
+- ❤️ My hobbies are solving computer problems, 🎈 participating in programming competitions 🎈, 🎮 playing video games, 💪 weight training, 🤘😜🤘 listening to heavy metal music 🎶, 📚 reading books on mythologies, mathematics, algorithms and technologies, and 🗣💬 learning new languages.  
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/ayrtoncarlos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ayrton-andrade/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto: ayrton.c.a.andrade@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
+
+![Ayrton's github stats](https://github-readme-stats.vercel.app/api?username=ayrtoncarlos&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtoncarlos&langs_count=10&count_private=true&theme=tokyonight)
+
+<p align="center"> 
+  Visitor count :trollface:<br>
+  <img src="https://profile-counter.glitch.me/ayrtoncarlos/count.svg" />
 </p>
