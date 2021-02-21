@@ -47,7 +47,7 @@
 - 📚 On the way to learn development using [Django](https://www.djangoproject.com/)  
 - ❤️ My hobbies are solving computer problems, 🎈 participating in programming competitions 🎈, 🎮 playing video games, 💪 weight training, 🤘😜🤘 listening to heavy metal music 🎶, 📚 reading books on mythologies, mathematics, algorithms and technologies, and 🗣💬 learning new languages.  
 
-![Ayrton's github stats](https://github-readme-stats.vercel.app/api?username=ayrtoncarlos&count_private=true&show_icons=true&theme=radical)
+![Ayrton's github stats](https://ayrtoncarlos.vercel.app/api?username=ayrtoncarlos&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtoncarlos&langs_count=10&count_private=true&theme=tokyonight)
 
