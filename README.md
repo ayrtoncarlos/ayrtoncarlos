@@ -39,7 +39,7 @@
 </p>
 
 - 👨‍🎓 I'm about to finish my bachelor's degree at ‍<img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /> [UNIFACISA](https://www.unifacisa.edu.br/home)  
-- 🏢 I’m currently working on ❔❔❔  
+- 🏢 I’m currently working on <img height="20" src="https://docs.google.com/uc?id=1wtGNkbT2K5Z_Oj6iR2DN7dw_92fy9gE2" alt="Accenture Brasil" /> [Accenture Brasil](https://www.accenture.com/br-pt)  
 - 💻 I’m currently learning on 📈📉 Machine Learning 📊 and 🤖💬 Deep Learning  
 - 💡🧠 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)  
 - 🏆🎈 I’m currently collaborate on [Keep Coding - Unifacisa](https://github.com/eduardolfalcao/keep-coding)  
