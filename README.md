@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ayrton, Software Engineer from <img src="https://docs.google.com/uc?id=1vCbzOT1amtYG73fD_dJYLAq1fQquNb6X" width="13"/> <b>Campina Grande - PB, Brazil</b>.</p>
+<p>Welcome to my page! </br> I'm Ayrton, Software Engineer from <img height="20" src="https://docs.google.com/uc?id=1vCbzOT1amtYG73fD_dJYLAq1fQquNb6X" alt="Brazilian flag" /> <b>Campina Grande - PB, Brazil</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
