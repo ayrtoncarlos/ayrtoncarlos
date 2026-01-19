@@ -38,7 +38,8 @@
 <img alt="Golang" src="https://img.shields.io/badge/-Golang-7FD5EA?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-- 👨‍🎓 I'm about to finish my bachelor's degree at ‍<img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /> [UNIFACISA](https://www.unifacisa.edu.br/home)  
+- 👨‍🎓 Bachelor's Degree, Information Systems at ‍<img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /> [UNIFACISA](https://www.unifacisa.edu.br/home)
+- 👨‍🎓 Postgraduate Degree, Distributed Software Architecture at ‍<img height="20" src="https://docs.google.com/uc?id=1xpTzlniYMWntTuaWwUdS4LhXPv5LyC34" alt="PUC Minas" /> [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)  
 - 🏢 I’m currently working on <img height="20" src="https://docs.google.com/uc?id=1wtGNkbT2K5Z_Oj6iR2DN7dw_92fy9gE2" alt="Accenture Brasil" /> [Accenture Brasil](https://www.accenture.com/br-pt)  
 - 💻 I’m currently learning on 📈📉 Machine Learning 📊 and 🤖💬 Deep Learning  
 - 💡🧠 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)  
