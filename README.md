@@ -40,17 +40,12 @@
 
 - 👨‍🎓 Bachelor's Degree, Information Systems at ‍<img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /> [UNIFACISA](https://www.unifacisa.edu.br/home)
 - 👨‍🎓 Postgraduate Degree, Distributed Software Architecture at ‍<img height="20" src="https://docs.google.com/uc?id=1xpTzlniYMWntTuaWwUdS4LhXPv5LyC34" alt="PUC Minas" /> [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)  
-- 🏢 I’m currently working on <img height="20" src="https://docs.google.com/uc?id=1wtGNkbT2K5Z_Oj6iR2DN7dw_92fy9gE2" alt="Accenture Brasil" /> [Accenture Brasil](https://www.accenture.com/br-pt)  
+- 🏢 I’m currently working on <img height="20" src="https://docs.google.com/uc?id=1H4pjBGnD4cXO_9RIyfnq6Q4LTGAEt8hX" alt="Platform Builders" /> [Platform Builders](https://www.platformbuilders.io/)  
 - 💻 I’m currently learning on 📈📉 Machine Learning 📊 and 🤖💬 Deep Learning  
-- 💡🧠 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)  
-- 🏆🎈 I’m currently collaborate on [Keep Coding - Unifacisa](https://github.com/eduardolfalcao/keep-coding)  
+- 💡🧠 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)   
 - 📚 On the way to learn development using [Angular](https://angular.io/)  
 - 📚 On the way to learn development using [Django](https://www.djangoproject.com/)  
 - ❤️ My hobbies are solving computer problems, 🎈 participating in programming competitions 🎈, 🎮 playing video games, 💪 weight training, 🤘😜🤘 listening to heavy metal music 🎶, 📚 reading books on mythologies, mathematics, algorithms and technologies, and 🗣💬 learning new languages.  
-
-![Ayrton's github stats](https://github-readme-stats.vercel.app/api?username=ayrtoncarlos&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtoncarlos&langs_count=10&count_private=true&theme=tokyonight)
 
 <h3>Where to find me</h3>
 <p>
