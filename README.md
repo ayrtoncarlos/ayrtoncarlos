@@ -38,9 +38,9 @@
 <img alt="Golang" src="https://img.shields.io/badge/-Golang-7FD5EA?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-- 👨‍🎓 Bachelor's Degree, Information Systems at ‍<img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /> [UNIFACISA](https://www.unifacisa.edu.br/home)
-- 👨‍🎓 Postgraduate Degree, Distributed Software Architecture at ‍<img height="20" src="https://docs.google.com/uc?id=1xpTzlniYMWntTuaWwUdS4LhXPv5LyC34" alt="PUC Minas" /> [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)  
-- 🏢 I’m currently working on <img height="20" src="https://docs.google.com/uc?id=1H4pjBGnD4cXO_9RIyfnq6Q4LTGAEt8hX" alt="Platform Builders" /> [Platform Builders](https://www.platformbuilders.io/)  
+- 👨‍🎓 Bachelor's Degree, Information Systems at ‍<a><img height="20" src="https://docs.google.com/uc?id=1-uHJ0w1D4R1knDF60vx9C0gEsqOWWRtM" alt="Unifacisa" /></a> [UNIFACISA](https://www.unifacisa.edu.br/home)
+- 👨‍🎓 Postgraduate Degree, Distributed Software Architecture at ‍<a><img height="20" src="https://docs.google.com/uc?id=1xpTzlniYMWntTuaWwUdS4LhXPv5LyC34" alt="PUC Minas" /></a> [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)  
+- 🏢 I’m currently working on <a><img height="20" src="https://docs.google.com/uc?id=1H4pjBGnD4cXO_9RIyfnq6Q4LTGAEt8hX" alt="Platform Builders" /></a> [Platform Builders](https://www.platformbuilders.io/)  
 - 💻 I’m currently learning on 📈📉 Machine Learning 📊 and 🤖💬 Deep Learning  
 - 💡🧠 I’m currently collaborate on [URI Online Judge](https://www.urionlinejudge.com.br/)   
 - 📚 On the way to learn development using [Angular](https://angular.io/)  
